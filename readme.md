@@ -1,1 +1,1 @@
-<p>Fundamental Python</p>
+<p>Fundamental Matplotlib</p>
